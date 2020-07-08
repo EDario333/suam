@@ -1,0 +1,27 @@
+{
+	"datasource": "file:///home/edario/mines/suam/data/temps.csv",
+	"times": 5,
+	"clusters": [
+		{
+			"name": "x",
+			"center": "(20,20)",
+			"color": "#b40426"
+		},
+		{
+			"name": "y",
+			"center": "(4,4)",
+			"color": "#3b4cc0"
+		}
+	],
+	"plot": {
+		"title": "Dos grupos de datos",
+		"x": {
+			"label": "Temperatura de ayer"
+		},
+		"y": {
+			"label": "Temperatura de hoy"
+		},
+		"marker": "o",
+		"file": "test.png"
+	}
+}

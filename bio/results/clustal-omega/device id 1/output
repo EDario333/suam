@@ -1,0 +1,49 @@
+Starting sequences alignment process...
+
+
+Starting at: 2020-04-30 17:35:51
+Finished at: 2020-04-30 17:49:42
+Total elapsed time: 0:13:51.347039
+
+Standard out is: Using 1 threads
+Read 10 sequences (type: DNA) from ../sequences.fasta
+not more sequences (10) than cluster-size (100), turn off mBed
+Calculating pairwise ktuple-distances...
+Ktuple-distance calculation progress: 0 % (0 out of 55)
+Ktuple-distance calculation progress: 16 % (9 out of 55)
+Ktuple-distance calculation progress: 30 % (17 out of 55)
+Ktuple-distance calculation progress: 43 % (24 out of 55)
+Ktuple-distance calculation progress: 54 % (30 out of 55)
+Ktuple-distance calculation progress: 63 % (35 out of 55)
+Ktuple-distance calculation progress: 70 % (39 out of 55)
+Ktuple-distance calculation progress: 76 % (42 out of 55)
+Ktuple-distance calculation progress: 80 % (44 out of 55)
+Ktuple-distance calculation progress: 81 % (45 out of 55)
+Ktuple-distance calculation progress done. CPU time: 31.06u 0.02s 00:00:31.08 Elapsed: 00:00:33
+Guide tree written to ../sequences.fasta.dnd.clustalo
+Guide-tree computation done.
+Progressive alignment progress: 11 % (1 out of 9)
+Progressive alignment progress: 22 % (2 out of 9)
+Progressive alignment progress: 33 % (3 out of 9)
+Progressive alignment progress: 44 % (4 out of 9)
+Progressive alignment progress: 55 % (5 out of 9)
+Progressive alignment progress: 66 % (6 out of 9)
+Progressive alignment progress: 77 % (7 out of 9)
+Progressive alignment progress: 88 % (8 out of 9)
+Progressive alignment progress: 100 % (9 out of 9)
+Progressive alignment progress done. CPU time: 762.36u 23.85s 00:13:06.21 Elapsed: 00:13:18
+Alignment written to ../sequences.fasta.aln.clustalo
+
+
+Standard error is empty
+SingleLetterAlphabet() alignment with 10 rows and 29903 columns
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...AAA LC542976
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...AAA LC542809
+--TAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114412
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114413
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114414
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114415
+------------------------TAACAAACCAACCAACTTTC...--- MT114416
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114417
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114418
+------------------------TAACAAACCAACCAACTTTC...--- MT114419

@@ -1,0 +1,7 @@
+{
+	"bin-path": "/usr/local/bin/clustalo",
+	"--infile": "../../bio/tests/sequences.fasta",
+	"--out": "../../results/bio/clustalo.aln",
+	"--threads": "4",
+	"--verbose": "1"
+}

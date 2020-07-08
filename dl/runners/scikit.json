@@ -1,0 +1,29 @@
+{
+	"datasource": "file:///home/edario/mines/suam/data/200520COVID19MEXICO.csv",
+	"label": "FALLECE",
+	"classes": "['0','1']",
+	"classes-codes": "[0,1]",
+	"test-set-target-accuracy": "0.95",
+  "starting-percent-training": "0.75",
+  "step-percent-training": "0.01",
+  "starting-percent-features": "0.99",
+  "step-percent-features": "0.10",
+	"starting-percent-test": "0.10",
+	"starting-percent-prediction": "0.10",
+	"precision-test-accuracy": "2",
+	"nn": {
+		"in": 22,
+		"hl": {
+			"nn": [22,44,11,44,22],
+			"af": "relu" 
+		},
+		"ol": {
+			"nn": 2,
+			"af": "softmax"
+		},
+		"op": "sgd",
+		"lf": "categorical_crossentropy",
+		"lr": 0.01,
+		"en": 500
+	}
+}

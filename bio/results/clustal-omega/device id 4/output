@@ -1,0 +1,54 @@
+Starting sequences alignment process...
+
+
+Starting at: 2020-04-23 13:29:41
+Finished at: 2020-04-23 13:36:40
+Total elapsed time: 0:06:58.762204
+
+Standard out is: Using 4 threads
+Read 10 sequences (type: DNA) from sequences.fasta
+not more sequences (10) than cluster-size (100), turn off mBed
+Calculating pairwise ktuple-distances...
+Ktuple-distance calculation progress: 0 % (0 out of 55)
+Ktuple-distance calculation progress: 1 % (1 out of 55)
+Ktuple-distance calculation progress: 3 % (2 out of 55)
+Ktuple-distance calculation progress: 5 % (3 out of 55)
+Ktuple-distance calculation progress: 56 % (31 out of 55)
+Ktuple-distance calculation progress: 63 % (35 out of 55)
+Ktuple-distance calculation progress: 80 % (44 out of 55)
+Ktuple-distance calculation progress: 92 % (51 out of 55)
+Ktuple-distance calculation progress: 107 % (59 out of 55)
+Ktuple-distance calculation progress: 118 % (65 out of 55)
+Ktuple-distance calculation progress: 127 % (70 out of 55)
+Ktuple-distance calculation progress: 134 % (74 out of 55)
+Ktuple-distance calculation progress: 139 % (77 out of 55)
+Ktuple-distance calculation progress: 143 % (79 out of 55)
+Ktuple-distance calculation progress: 145 % (80 out of 55)
+Ktuple-distance calculation progress done. CPU time: 30.83u 0.00s 00:00:30.83 Elapsed: 00:00:17
+Guide tree written to sequences.fasta.dnd.clustalo
+Guide-tree computation done.
+Progressive alignment progress: 11 % (1 out of 9)
+Progressive alignment progress: 22 % (2 out of 9)
+Progressive alignment progress: 33 % (3 out of 9)
+Progressive alignment progress: 44 % (4 out of 9)
+Progressive alignment progress: 55 % (5 out of 9)
+Progressive alignment progress: 66 % (6 out of 9)
+Progressive alignment progress: 77 % (7 out of 9)
+Progressive alignment progress: 88 % (8 out of 9)
+Progressive alignment progress: 100 % (9 out of 9)
+Progressive alignment progress done. CPU time: 390.43u 11.54s 00:06:41.97 Elapsed: 00:06:42
+Alignment written to sequences.fasta.aln.clustalo
+
+
+Standard error is empty
+SingleLetterAlphabet() alignment with 10 rows and 29903 columns
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...AAA LC542976
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...AAA LC542809
+--TAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114412
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114413
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114414
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114415
+------------------------TAACAAACCAACCAACTTTC...--- MT114416
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114417
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114418
+------------------------TAACAAACCAACCAACTTTC...--- MT114419

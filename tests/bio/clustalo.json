@@ -1,0 +1,7 @@
+{
+	"modules": {
+		"bio": {
+			"tools": "['clustalo']"
+		}
+	}
+}

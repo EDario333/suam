@@ -1,0 +1,5 @@
+{
+	"bin-path": "/usr/bin/muscle",
+	"-in": "../../bio/tests/sequences.fasta",
+	"-out": "../../results/bio/muscle.aln"
+}

@@ -1,0 +1,26 @@
+{
+	"datasource": "file:///home/edario/mines/suam/data/iris.csv",
+	"label": "species",
+	"classes": "['Iris-setosa','Iris-versicolor','Iris-virginica']",
+	"classes-codes": "[0,1,2]",
+	"save-results": "1",
+	"results-dir": "/home/edario/mines/python-iris/results/",
+	"test-set-target-accuracy": "0.95",
+  "starting-percent-training": "0.75",
+  "step-percent-training": "0.01",
+  "starting-percent-features": "0.99",
+  "step-percent-features": "0.10",
+	"starting-percent-test": "0.10",
+	"starting-percent-prediction": "0.10",
+	"precision-test-accuracy": "2",
+	"number-successful-tests": "10",
+	"networks": {
+		"mlp": {
+			"hidden-layers": "1",
+			"layers-neurons": "[1]",
+			"train-steps": "1000",
+			"batch-size": "100",
+			"network-types": "mlp"
+		}
+	}
+}

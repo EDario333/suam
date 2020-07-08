@@ -1,0 +1,88 @@
+Starting sequences alignment process...
+
+
+Starting at: 2020-04-30 12:39:01
+Finished at: 2020-04-30 12:44:00
+Total elapsed time: 0:04:59.716115
+
+Standard out is empty!
+
+Standard error is: 
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+sequences 10 seqs, max length 29903, avg  length 29888
+00:00:00    13 MB(-2%)  Iter   1    1.82%  K-mer dist pass 1
+00:00:00    13 MB(-2%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:00    13 MB(-2%)  Iter   1    1.82%  K-mer dist pass 2
+00:00:00    13 MB(-2%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:00    37 MB(-5%)  Iter   1   11.11%  Align node       
+00:00:11  1002 MB(-148%)  Iter   1   22.22%  Align node
+00:00:21  1029 MB(-151%)  Iter   1   33.33%  Align node
+00:00:31  1063 MB(-157%)  Iter   1   44.44%  Align node
+00:00:41  1090 MB(-160%)  Iter   1   55.56%  Align node
+00:00:50  1099 MB(-162%)  Iter   1   66.67%  Align node
+00:01:00  1108 MB(-163%)  Iter   1   77.78%  Align node
+00:01:10  1116 MB(-164%)  Iter   1   88.89%  Align node
+00:01:20  1125 MB(-166%)  Iter   1  100.00%  Align node
+00:01:30  1134 MB(-167%)  Iter   1  100.00%  Align node
+00:01:30  1134 MB(-167%)  Iter   1   10.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   20.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   30.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   40.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   50.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   60.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   70.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   80.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1   90.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1  100.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   1  100.00%  Root alignment
+00:01:30  1135 MB(-167%)  Iter   2   12.50%  Refine tree   
+00:01:40  1135 MB(-167%)  Iter   2   25.00%  Refine tree
+00:01:50  1135 MB(-167%)  Iter   2   37.50%  Refine tree
+00:02:00  1135 MB(-167%)  Iter   2  100.00%  Refine tree
+00:02:00  1135 MB(-167%)  Iter   2   10.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   20.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   30.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   40.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   50.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   60.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   70.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   80.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2   90.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2  100.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2  100.00%  Root alignment
+00:02:00  1135 MB(-167%)  Iter   2  100.00%  Root alignment
+00:02:10  1135 MB(-167%)  Iter   3   11.76%  Refine biparts
+00:02:20  1135 MB(-167%)  Iter   3   17.65%  Refine biparts
+00:02:31  1135 MB(-167%)  Iter   3   23.53%  Refine biparts
+00:02:41  1135 MB(-167%)  Iter   3   29.41%  Refine biparts
+00:02:52  1135 MB(-167%)  Iter   3   35.29%  Refine biparts
+00:03:03  1135 MB(-167%)  Iter   3   41.18%  Refine biparts
+00:03:14  1135 MB(-167%)  Iter   3   47.06%  Refine biparts
+00:03:24  1135 MB(-167%)  Iter   3   52.94%  Refine biparts
+00:03:34  1135 MB(-167%)  Iter   3   58.82%  Refine biparts
+00:03:45  1135 MB(-167%)  Iter   3   64.71%  Refine biparts
+00:03:56  1135 MB(-167%)  Iter   3   70.59%  Refine biparts
+00:04:06  1135 MB(-167%)  Iter   3   76.47%  Refine biparts
+00:04:17  1135 MB(-167%)  Iter   3   82.35%  Refine biparts
+00:04:27  1135 MB(-167%)  Iter   3   88.24%  Refine biparts
+00:04:38  1135 MB(-167%)  Iter   3   94.12%  Refine biparts
+00:04:49  1135 MB(-167%)  Iter   3  100.00%  Refine biparts
+00:04:59  1135 MB(-167%)  Iter   3  105.88%  Refine biparts
+00:04:59  1135 MB(-167%)  Iter   3  100.00%  Refine biparts
+
+SingleLetterAlphabet() alignment with 10 rows and 29903 columns
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...AAA LC542976
+------------------------TAACAAACCAACCAACTTTC...--- MT114416
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114417
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...AAA LC542809
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114414
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114415
+--TAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114412
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114413
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTC...--- MT114418
+------------------------TAACAAACCAACCAACTTTC...--- MT114419

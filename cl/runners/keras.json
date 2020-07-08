@@ -1,0 +1,32 @@
+{
+	"datasource": "file:///home/edario/mines/suam/data/iris.csv",
+	"label": "species",
+	"classes": "['Iris-setosa','Iris-versicolor','Iris-virginica']",
+	"classes-codes": "[0,1,2]",
+	"save-results": "1",
+	"results-dir": "/home/edario/mines/python-iris/results/",
+	"test-set-target-accuracy": "0.95",
+  "starting-percent-training": "0.75",
+  "step-percent-training": "0.01",
+  "starting-percent-features": "0.99",
+  "step-percent-features": "0.10",
+	"starting-percent-test": "0.10",
+	"starting-percent-prediction": "0.10",
+	"precision-test-accuracy": "2",
+	"number-successful-tests": "10",
+	"nn": {
+		"in": 4,
+		"hl": {
+			"nn": [10],
+			"af": "relu" 
+		},
+		"ol": {
+			"nn": 3,
+			"af": "softmax"
+		},
+		"op": "sgd",
+		"lf": "categorical cross entropy",
+		"lr": 0.01,
+		"en": 500
+	}
+}
